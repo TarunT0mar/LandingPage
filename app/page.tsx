@@ -11,6 +11,7 @@ import FAQ from "@/app/UICOMP/FAQ"
 export default function Home() {
   return (
     <>
+  
     <Anouncement/>
    <Header/>
    <Hero />
